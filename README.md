@@ -1,5 +1,8 @@
 ### Hi there, I'm Wilmer Palacios👋
 
+- 🔭 I’m currently working on WW Project.
+- 🌱 I’m currently learning DevOps techniques to mantain large projects.
+
 <!--
 **wjpl-all-win-soft/wjpl-all-win-soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
